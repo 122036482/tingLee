@@ -73,3 +73,6 @@ body {
     box-sizing: border-box;
     font-size: 14px;
 }
+a:hover{
+    color: #f01414;
+}
