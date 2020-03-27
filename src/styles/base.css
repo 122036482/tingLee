@@ -72,6 +72,7 @@ body {
     background-color: #fff;
     box-sizing: border-box;
     font-size: 14px;
+    min-width: 1200px;
 }
 a:hover{
     color: #f01414;
