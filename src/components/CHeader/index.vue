@@ -1,6 +1,6 @@
 <template>
   <div class="tingLee-header-container" ref="header" :class="{fiexd: isFiexd}">
-    <div class="tinfLee-header-left fl">TingLee</div>
+    <div class="tinfLee-header-left fl">英语听听</div>
     <div class="tingLee-header-ringht fr">
       <ul class="tingLee-header-link" id="tingLee-header-link">
         <li
