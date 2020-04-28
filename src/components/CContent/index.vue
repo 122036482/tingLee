@@ -78,7 +78,6 @@ export default {
   },
   mounted() {
     console.log("Current Swiper instance object", this.swiper);
-    // this.swiper.slideTo(3, 1000, false)
   }
 };
 </script>
@@ -102,7 +101,7 @@ export default {
       display: flex;
       justify-content: center;
       .screen-img {
-        height: 568px;
+        height: auto;
         width: 320px;
       }
     }
@@ -112,7 +111,7 @@ export default {
     position: relative;
     width: 100%;
     padding: 10px 0;
-    height: 568px;
+    height: 692.547px;
     .screen-2__features {
       position: absolute;
       left: 30%;
@@ -147,7 +146,7 @@ export default {
       .screen-img {
         display: inline-block;
         margin-left: 15px;
-        height: 568px;
+        height: 692.547px;
         width: 320px;
       }
     }
@@ -157,7 +156,7 @@ export default {
     position: relative;
     width: 100%;
     padding: 10px 0;
-    height: 568px;
+    height: 692.547px;
     .screen-3__features {
       position: absolute;
       left: 5%;
@@ -192,7 +191,7 @@ export default {
       .screen-img {
         display: inline-block;
         margin-left: 15px;
-        height: 568px;
+        height: 692.547px;
         width: 320px;
       }
     }

@@ -1,14 +1,14 @@
 <template>
   <div class="footer-container">
     <div class="footer-container-f fl">
-      <p>Copyright © 英语听听, 2011~2019</p>
+      <p>Copyright © 英语听听, 2011~2020</p>
       <p>
-        <a href="mailto:yingyutingting123@163.com">email: yingyutingting123@163.com</a>
+        <a href="mailto:zxllf23@foxmail.com" target="_blank">email: zxllf23@foxmail.com</a>
       </p>
     </div>
     <div class="footer-container-f fr">
-      <p>QQ: 1525401988</p>
-      <p>粤ICP备12073657号</p>
+      <p>微信：roenluo</p>
+      <p><a href="http://www.beian.miit.gov.cn/" target="_blank">赣ICP备20005425号</a></p>
     </div>
   </div>
 </template>

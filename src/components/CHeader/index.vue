@@ -59,7 +59,7 @@ export default {
   background-color: #F7F7F7;
   color: #4d555d;
   box-shadow: 1px 1px 9px 1px #4d555d;
-  animation: all 5s infinite;
+  animation: all .5s;
   .tinfLee-header-left {
     line-height: 80px;
     margin-left: 20px;
@@ -67,14 +67,10 @@ export default {
     color: #ffc800;
   }
   .tingLee-header-ringht {
-    // line-height: 80px;
     margin-right: 20px;
     .tingLee-header-link {
       line-height: 80px;
       position: relative;
-      // &:hover{
-      //     color: #f01414;
-      // }
       .tingLee-header-link-product {
         margin: 0 20px;
         cursor: pointer;
@@ -103,7 +99,6 @@ export default {
     top:0;
     z-index: 90;
     animation: all 5s infinite;
-    // background-color: rgba(0, 0, 0, .2);
     background-color: #6C6E70;
     color: #ffffff;
 }
